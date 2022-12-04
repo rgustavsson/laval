@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextAnalyzerConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.gutenberg.org/cache/epub/69463/pg69463.txt,https://www.gutenberg.org/files/45839/45839.txt"
+    }
+  }
+}
